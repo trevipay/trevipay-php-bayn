@@ -1,5 +1,6 @@
 <?php
 
+declare(strict_types=1);
 
 namespace TreviPay\TreviPay\Test\Unit\Model\Buyer;
 
